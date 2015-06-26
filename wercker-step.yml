@@ -1,0 +1,13 @@
+name: tonnus-amazing-step
+version: 0.1.0
+desription: An amazing step!
+keywords:
+  - amazing
+  - wow
+  - such
+  - step
+properties:
+  message:
+    type: string
+    required: true
+    default: "Such amazing step wow"
