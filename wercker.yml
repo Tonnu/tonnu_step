@@ -2,4 +2,4 @@ box: wercker/default
 build:
   steps:
     - tonnu/tonnus-amazing-step@0.1.0:
-      message: Hola
+        message: "Hola"

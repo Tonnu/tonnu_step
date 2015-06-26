@@ -9,5 +9,5 @@ keywords:
 properties:
   message:
     type: string
-    required: true
+    required: false
     default: "Such amazing step wow"
